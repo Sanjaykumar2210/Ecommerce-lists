@@ -72,3 +72,6 @@ An interactive and animated e-commerce list page built using **React** and **Nex
    ```bash
    git clone https://github.com/your-username/ecommerce-list.git
 
+ Deployment
+The application is deployed on Vercel. Access it here:
+https://ecommerce-list.vercel.app
